@@ -4,3 +4,4 @@ pillow
 rembg
 python-multipart
 jinja2
+onnxruntime
